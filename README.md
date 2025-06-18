@@ -1,6 +1,6 @@
 # Welcome 👋
 
-I'm Mohammad Arfan Ameen — a passionate computer science student with interests in AI, machine learning, and computer vision. I enjoy building intelligent systems, exploring data, and solving real-world problems through code. Always learning, always experimenting.
+I'm Mohammad Arfan Ameen — a passionate computer science graduate with interests in AI, machine learning, and computer vision. I enjoy building intelligent systems, exploring data, and solving real-world problems through code. Always learning, always experimenting.
 ---
 <!--
 Here are some ideas to get you started:
