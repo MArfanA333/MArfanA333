@@ -14,20 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Current Projects
-
-Redoing some of my old projects while applying everything I've learnt with proper documentation and conventions
-- Task Tracker CLI (In progress)
-- Expense Tracker CLI
-- Workout Tracker CLI
-
----
-## Currently Learning
-
-- Machine Learning Crash Course
-- Data Analyst Path (Roadmap.sh)
-
 ---
 
 ## Projects
